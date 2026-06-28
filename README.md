@@ -12,22 +12,34 @@ I'm a software developer and AI research learner interested in full-stack develo
 
 ## Skills
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,php&theme=dark" alt="C, Java, Python, JavaScript, PHP" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" alt="C, C++, Java, Python, JavaScript, PHP" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark" alt="HTML, CSS, Bootstrap, React, Tailwind CSS" />
 </p>
 
-### Backend, Database & Tools
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Node.js, Express, PHP" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB, Firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman, Figma, Netlify, Vercel" />
 </p>
 
 ### AI & Research Areas
@@ -38,6 +50,19 @@ I'm a software developer and AI research learner interested in full-stack develo
   <img src="https://img.shields.io/badge/GAN-7C3AED?style=for-the-badge" alt="GAN" />
   <img src="https://img.shields.io/badge/Swin%20Transformer-2563EB?style=for-the-badge" alt="Swin Transformer" />
   <img src="https://img.shields.io/badge/Deepfake%20Detection-111827?style=for-the-badge" alt="Deepfake Detection" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Research%20Writing-22C55E?style=for-the-badge" alt="Research Writing" />
+</p>
+
+### Other Technical Skills
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/CRUD-22C55E?style=for-the-badge" alt="CRUD" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-00D4FF?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/SEO-16A34A?style=for-the-badge" alt="SEO" />
+  <img src="https://img.shields.io/badge/Debugging-F97316?style=for-the-badge" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Documentation-64748B?style=for-the-badge" alt="Documentation" />
 </p>
 
 ## What I Can Work On
@@ -83,20 +108,3 @@ Research paper project focused on deepfake detection using AI-based approaches. 
 ---
 
 Currently open to freelance projects, internships, full-time roles, entry-level developer opportunities, and collaborations.
-
-
-
-<!--
-**DeekshaVerma1103/DeekshaVerma1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
