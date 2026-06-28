@@ -12,37 +12,33 @@ I'm a software developer and AI research learner interested in full-stack develo
 
 ## Skills
 
-### Programming & Development
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,php&theme=dark" alt="C, Java, Python, JavaScript, PHP" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00D4FF?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS, Bootstrap" />
+</p>
 
-### Backend & Database
+### Backend, Database & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend%20Development-111827?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-0A66C2?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD-22C55E?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub, VS Code" />
+</p>
 
-### AI, Research & Tools
+### AI & Research Areas
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EC4899?style=for-the-badge)
-![GAN](https://img.shields.io/badge/GAN-7C3AED?style=for-the-badge)
-![Transformer](https://img.shields.io/badge/Swin%20Transformer-2563EB?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EC4899?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/GAN-7C3AED?style=for-the-badge" alt="GAN" />
+  <img src="https://img.shields.io/badge/Swin%20Transformer-2563EB?style=for-the-badge" alt="Swin Transformer" />
+  <img src="https://img.shields.io/badge/Deepfake%20Detection-111827?style=for-the-badge" alt="Deepfake Detection" />
+</p>
 
 ## What I Can Work On
 
@@ -87,6 +83,7 @@ Research paper project focused on deepfake detection using AI-based approaches. 
 ---
 
 Currently open to freelance projects, internships, full-time roles, entry-level developer opportunities, and collaborations.
+
 
 
 <!--
